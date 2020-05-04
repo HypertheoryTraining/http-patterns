@@ -56,8 +56,8 @@ plugins:
 #   - vendor/ruby/
 plainwhite:
   navigation:
-    - title: Pattern Index
-    - url: "/pattern-index"
+    - title: "Pattern Index"
+      url: "/patternindex"
   name: HTTP Patterns
   tagline: From Darrel Miller
   date_format: "%b %-d, %Y"
