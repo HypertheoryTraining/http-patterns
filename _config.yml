@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 excerpt_separator: <!--more-->
 # Build settings
-theme: plainwhite
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
