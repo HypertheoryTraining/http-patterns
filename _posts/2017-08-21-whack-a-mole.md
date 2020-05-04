@@ -1,7 +1,7 @@
 ---
 title: "Name: Whack-a-mole"
 published: 2017-08-21
-categories: REST, HTTP
+categories: REST HTTP
 layout: post
 ---
 A type of resource that when deleted, re-appears as a different resource.

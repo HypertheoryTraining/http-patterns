@@ -1,7 +1,7 @@
 ---
 title: "Name: Discovery"
 published: 2017-08-21
-categories: REST, HTTP
+categories: REST HTTP
 layout: post
 ---
 This type of resource is used to provide a client with the information it needs to be able to access other resources.  This removes the need for a client to hardcode resource URLs which include information such as the protocol scheme, host, path and query string.
